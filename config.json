@@ -1,0 +1,4 @@
+{
+  "Entrypoint": ["/usr/bin/cpustats"],
+  "Env": ["CPUSTATS_INTERVAL=5"]
+}
